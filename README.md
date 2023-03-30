@@ -43,4 +43,4 @@ Ponca City, OK - 72ºF
 Sallisaw, OK - 72ºF
 License
 
-This project is licensed under the MIT License.
+This project is licensed under the CC0-1.0 license.
